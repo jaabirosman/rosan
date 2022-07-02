@@ -18,7 +18,7 @@ async def start_(client: Client, message: Message):
 
 ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ʜᴀɴᴅʟᴇʀs : ( `/ . • $ ^ ~ + * ?` )
 ┏━━━━━━━━━━━━━━┓
-┣★ Update: [Team Osmani](t.me/{UPDATE_CHANNEL})
+┣★ Support: [Team Osmani]https://t.me/{SUPPORT_GROUP}
 ┣★ ᴍᴀᴅᴇ ʙʏ: [Ribaj Osmani](t.me/{me})
 ┣★ Hepl DM: [Help](t.me/{me})
 ┗━━━━━━━━━━━━━━┛
